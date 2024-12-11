@@ -4,7 +4,7 @@ int main(){
     char str[100];
     while(fgets(str,100,ptr)!=NULL) printf("%s",str);
     
-    fseek(ptr,10,SEEK_SET);
+    
     
 
     while(fgets(str,100,ptr)!=NULL) printf("%s",str);
