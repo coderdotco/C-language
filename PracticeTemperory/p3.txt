@@ -1,3 +1,2 @@
 This is a simple text file demonstrating file operations in C.
-This is an additional line using fputs.
-A
+hello world

@@ -1,0 +1,8 @@
+E-commerce Cart Bill
+---------------------------
+Product ID: 101, Name: vadapav, Price: 30.00, Available Quantity: 4
+Product ID: 102, Name: samosa, Price: 15.00, Available Quantity: 5
+Product ID: 115, Name: dahichole, Price: 130.00, Available Quantity: 0
+---------------------------
+Total Bill: 1555.00
+
